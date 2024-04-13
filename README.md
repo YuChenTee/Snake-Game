@@ -22,4 +22,4 @@ This project is a simple implementation of the classic Snake game in Java. The g
 1. Java
 2. Swing (for GUI)
 
-Feel free to customize this description further to match your project's specific details and features!
+
